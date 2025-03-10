@@ -2,8 +2,6 @@
 
 Plant Disease Detection is an advanced machine learning project that leverages Convolutional Neural Networks (CNN) and deep learning techniques to identify and classify plant diseases. Its primary goal is to provide farmers and agricultural experts with a reliable tool for rapid plant health diagnosis, enabling timely intervention and reducing the risk of crop loss.
 
-[**Live Demo**]
-
 ## Project Structure 📂
 Key Features:
 
